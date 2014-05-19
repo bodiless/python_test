@@ -1,1 +1,1 @@
-echo "tes"
+print "test pythona"
